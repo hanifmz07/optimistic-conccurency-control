@@ -40,4 +40,4 @@ The second element is the transaction ID. The third element is the data targeted
 | Hanif Muhammad Zhafran        | 13521157 |
 | Shidqi Indy Izhari            | 13521097 |
 | Manuella Ivana Uli Sianipar   | 13521051 |
-| Rava Maulana Azzikri          | 13521149 |
+| Rava Maulana                  | 13521149 |
